@@ -1,2 +1,2 @@
 # Election-Analysis
-This project includes the use of Python.
+For this project, we are helping Tom perfrom an Election Audit for the Colorado Board of Elections
