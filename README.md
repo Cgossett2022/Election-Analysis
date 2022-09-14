@@ -29,6 +29,7 @@ Raymon Anthony Doane received 11,606 votes which made up 3.1%
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 Diana DeGette won the election with 272,892 votes which made up 73.8%
 
+<img width="292" alt="election_results" src="https://user-images.githubusercontent.com/111243284/190267370-095ebd5a-fccf-47af-8a05-4d4437932bde.png">
 
 
 ## Election-Audit-Summary
